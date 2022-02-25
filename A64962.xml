@@ -1,0 +1,422 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great change discoursed of in a funeral sermon, occasioned by the death of Mrs. Martha Thompson, late wife of Captain William Thompson in Wapping. Preached by Nathanael Vincent, M A. minister of the gospel.</title>
+            <author>Vincent, Nathanael, 1639?-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64962</idno>
+            <idno type="STC">Wing V408</idno>
+            <idno type="STC">ESTC R219229</idno>
+            <idno type="EEBO-CITATION">99830727</idno>
+            <idno type="PROQUEST">99830727</idno>
+            <idno type="VID">35181</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35181)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1877:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great change discoursed of in a funeral sermon, occasioned by the death of Mrs. Martha Thompson, late wife of Captain William Thompson in Wapping. Preached by Nathanael Vincent, M A. minister of the gospel.</title>
+                  <author>Vincent, Nathanael, 1639?-1697.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Parkhurst at the Bible and Three Crowns in Cheapside near Mercers-Chappel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an advertisment at end of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35181:1"/>
+            <p>THE Great Change: Diſcourſed of in a FUNERAL SERMON, Occaſioned by the Death of Mrs. <hi>MARTHA THOMPSON,</hi> Late Wife of Captain <hi>WILLIAM THOMPSON</hi> In <hi>WAPPING.</hi> Preached by <hi>Nathanael Vincent,</hi> M. A. Miniſter of the Goſpel.</p>
+            <q>
+               <hi>The memory of the juſt is bleſſed.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide</hi> near <hi>Mercers-Chappel,</hi> 1682.</p>
+            <pb facs="tcp:35181:2"/>
+            <pb facs="tcp:35181:2"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:35181:3"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:35181:3"/>
+            <head>To his much reſpected friends, <hi>Mr. Robert Thompſon</hi> the <hi>Father,</hi> and <hi>Mrs. Mar<g ref="char:EOLhyphen"/>tha Thompſon</hi> the <hi>Mother,</hi> and <hi>Cap<g ref="char:EOLhyphen"/>tain William Thompſon</hi> the <hi>Husband</hi> of the late Deceaſed <hi>Mrs. Martha Thompſon.</hi>
+            </head>
+            <p>YOur deſires, which alſo have been ſeconded by the deſires of others, have brought forth this diſcourſe into the World. It is not, I muſt confeſs, at all againſt my inclination to make it Publick; becauſe the <hi>deſerved Character</hi> I gave your <hi>Deceaſed Relation</hi> having ſounded onely in the Ear, might be ſoon forgotten; but being <hi>Printed,</hi> may prove a very good Copy for others to imitate, and write after. How few Saints at this day are exemplary! This is an Age in which thoſe that are Evil wax <hi>worſe and worſe;</hi> and many that are gracious are under great languiſhing and decays. A Christian that <hi>grows in Grace,</hi> and <hi>whoſe Soul proſpers,</hi> and whoſe Converſation is a Conviction to the World, that there is both a <hi>reality</hi> and <hi>efficacy</hi> in Religion, is <hi>Rara avis in terris;</hi> not eaſily to be found.</p>
+            <p>I cannot blame your grief that you have loſt One who was ſo dear, and ſo worthy to be ſo dearly loved. Onely I would have you remember, That Believers are to <hi>weep as if they wept not:</hi> they are not to mourn over the Dead <hi>as without hope.</hi> And Hope being ſo well ground<g ref="char:EOLhyphen"/>ed, will keep Sorrow within due limits. How eaſily, when
+<pb facs="tcp:35181:4"/> the <hi>Sun</hi> riſes, does its light ſupply the room of the <hi>Stars,</hi> whoſe twinkling light is vaniſht! <hi>Creatures</hi> at beſt, though they have never ſo great a Luſtre, are but <hi>little things:</hi> and their abſence may be brooked well enough, if the <hi>All-ſufficient and Gracious God,</hi> does but vouchſafe more of his ſpecial and reviving preſence.</p>
+            <p>
+               <hi>My friends!</hi> Turn your Sorrow into a right Channel: God puts thoſe <hi>Tears into his bottle,</hi> which are ſhed for Sin; but thoſe which the <hi>Sorrow of this World</hi> draws from our Eyes as common water, are ſpilt upon the ground. Sin does beſt deſerve your grief; and the Lord, whoſe <hi>Being</hi> and <hi>kindneſs</hi> is <hi>unchangeable,</hi> what ever changes are among the Creatures, is <hi>as much to be loved, delighted, and rejoyced in as ever.</hi> A curious Ciſtern has been broken to pieces, I wiſh you may all have recourſe to, and drink more largely of the <hi>Fountain of living Waters.</hi>
+            </p>
+            <p>That God would ſanctifie the <hi>breach</hi> he has made, and ſatiate your Souls with <hi>himſelf,</hi> and wean you from this World, and bring you at laſt ſafe to his Heavenly King<g ref="char:EOLhyphen"/>dom, is the Prayer of</p>
+            <closer>
+               <signed>Your much obliged Friend and Servant for Jeſus ſake Nathanael Vincent.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:35181:4"/>
+            <epigraph>
+               <q>
+                  <bibl>Job XIV. Ver. 14. latter part.</bibl> 
+                  <hi>All the days of my appointed time will I wait till my change come.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Here had been a ſtrange and ſudden al<g ref="char:EOLhyphen"/>teration in the temporal Eſtate of <hi>Job:</hi> ſo that He who was as <hi>good</hi> and as <hi>great</hi> as any of the Sons of the Eaſt; nay, a <hi>Nonſuch</hi> for uprightneſs and the fear of God, is in an inſtant ſpoil'd of all he had, and reduced to extreme poverty. Never Riches did take unto them <hi>ſwifter Wings,</hi> and they flew away altogether as <hi>an Eagle towards Heaven. Sa<g ref="char:EOLhyphen"/>tan</hi> from Hell, his Inſtruments on Earth aſſaulted <hi>Job:</hi> and the God of heaven permitted both, for the trial of his Faith and Patience, and the proof of his Since<g ref="char:EOLhyphen"/>rity. This <hi>change</hi> in his <hi>outward condition</hi> cauſed him to be deeply apprehenſive of <hi>another change,</hi> which he con<g ref="char:EOLhyphen"/>cluded could not be far off. Affliction is called by the name of <hi>Death</hi> in Scripture, becauſe of its tendency to it; and ought to be lookt upon as an admonition con<g ref="char:EOLhyphen"/>cerning it.</p>
+            <p>In the beginning of this Chapter, <hi>Job</hi> ſpeaks of Mans frailty in the general: <hi>Man that is born of a woman, is of few days:</hi> his Days are few; but ſo are not his Trou<g ref="char:EOLhyphen"/>bles, for they are many, his Life is full of them. He is not compared to the <hi>ſturdy Oak,</hi> or the <hi>lofty Cedar,</hi> which will ſtand long, if let alone, and muſt have many a ſtroak to make them fall. No, no, a <hi>flower,</hi> a <hi>ſhaddow,</hi>
+               <pb n="4" facs="tcp:35181:5"/> are much fitter compariſons. <hi>He cometh forth as a flower, and is cut down: he fleeth alſo as a ſhadow, and conti<g ref="char:EOLhyphen"/>nueth not.</hi> This <hi>general</hi> Doctrine of Mortality, <hi>Job</hi> in the Text <hi>particularly</hi> applies to himſelf; and truly he is very cloſe in that application. He ſaw himſelf changeable, his actual Change he ſaw as near; and waits for the com<g ref="char:EOLhyphen"/>ing of it. <hi>All the days of my appointed time,</hi> &amp;c.</p>
+            <p>Theſe Particulars are obſervable in the Words.</p>
+            <p n="1">1. There is the practiſe which <hi>Job</hi> reſolves upon, and that is <hi>to wait,</hi> which implies a certain Expectation, and a diligent preparation ſuitable to ſuch a certain expecta<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="2">2. That which he waited for, was, the <hi>coming of a Change.</hi> This Change ſome refer to the <hi>Reſurrection,</hi> which as it ought moſt firmly to be believed, ſo with joy to be thought on. But others with greater pro<g ref="char:EOLhyphen"/>bability do underſtand it of <hi>Death,</hi> which is a great Change indeed, with reference both to good and bad: with reference to the Bodies, and the Souls of Men. For though the Soul dies not, yet 'tis mightily altered after its ſeparation.</p>
+            <p n="3">3. This Change <hi>Job</hi> calls <hi>his own Change,</hi> or the Change of himſelf; the Hebrew Word is <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which is tranſla<g ref="char:EOLhyphen"/>ted <hi>Immutatio mei,</hi> The Change of me; as if he ſhould ſay, The Lord by Affliction, has made a Change in my Eſtate; and ſhortly by Death he will make a Change in my Perſon. The things of the World have left me, and I my ſelf ſhall leave the World quickly.</p>
+            <p n="4">4. Here is the time of waiting. The time which was <hi>appointed him in this World.</hi> The <hi>Hebrew</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> may be Tranſlated <hi>Dies Militiae,</hi> the days of my Warfare. Our days are appointed for Combat with our Spiritu<g ref="char:EOLhyphen"/>al Enemies; and if being ſtrong in the Lord, we are vigo<g ref="char:EOLhyphen"/>rous in the Combat, we are ſure to come off Conque<g ref="char:EOLhyphen"/>rors.</p>
+            <pb n="5" facs="tcp:35181:5"/>
+            <p n="5">5 <hi>Job</hi> is ſenſible of the danger and unreaſonableneſs of Carnal Security at any time, and therefore purpoſes <hi>every day</hi> to be in expectation of his Laſt Day. <hi>All the days of my appointed time will I wait till my change come.</hi>
+            </p>
+            <p>I raiſe Three Doctrines from the Words</p>
+            <list>
+               <item>Firſt, <hi>That Mans time in this World is an appointed time.</hi>
+               </item>
+               <item>Secondly, <hi>A Change will come, and put an end to this time which is appointed to man.</hi>
+               </item>
+               <item>Thirdly, <hi>To be waiting for this Change, is the practiſe of the Saints, and would be the wiſdom of all.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Doctr.</hi> 1 I begin with the firſt, <hi>That mans time in this World is an appointed time,</hi> Job 7. 1. <hi>Is there not an ap<g ref="char:EOLhyphen"/>pointed time to man upon Earth? are not his days alſo, like the days of an hireling?</hi> So <hi>Job</hi> 14. 5. <hi>Seeing his days are determined, the number of his months are with thee, thou haſt appointed his bounds that he cannot paſs.</hi> In the hand<g ref="char:EOLhyphen"/>ling of this Doctrine I ſhall,</p>
+            <list>
+               <item>1. Speak concerning time which is appointed to Man.</item>
+               <item>2. Shew you who has appointed it.</item>
+               <item>3. To what end it is appointed.</item>
+            </list>
+            <p>And then make Application.</p>
+            <p>In the firſt place, I am to ſpeak of Time, which is thus appointed unto Man.</p>
+            <p n="1">1. This <hi>time is continually paſſing.</hi> It had a Beginning, it will have an End; and to that end 'tis always haſting, <hi>Eternity was before it,</hi> and <hi>Eternity will be after it.</hi> Time is commonly divided into <hi>paſt,</hi> and <hi>to come;</hi> that which is paſt, is paſt recalling; that which is to come, may quick<g ref="char:EOLhyphen"/>ly be paſt alſo. The preſent time is but an inſtant, which in the twinkling of an Eye is ſwallowed up in that which is paſt away. Thoſe ſimilitudes of a <hi>Weavers Shuttle,</hi> of the <hi>Ships of deſire,</hi> of an <hi>Eagle haſting to the prey,</hi> are uſed
+<pb n="6" facs="tcp:35181:6"/> by the Holy Ghoſt, <hi>Job</hi> 9. 26. to ſignifie the ſwift paſſage of time. Times Glaſs is always running. <hi>Auguſtine</hi> has a pretty obſervation, <hi>I.</hi> 2. <hi>Confeſ. c.</hi> 23. When <hi>Joſhua</hi> was fighting with the <hi>Canaanites, Sol ſtabat, tempus ibat:</hi> The Sun ſtood ſtill, but Time did not.</p>
+            <p n="2">2 This time is called a <hi>time of ſojourning.</hi> 1 <hi>Pet.</hi> 1. 17. <hi>Paſs the time of your ſojourning here in fear.</hi> This World is not to be the Eternal Home of any. All that are in it, are haſtning out of it. The Wicked ſhall not long be per<g ref="char:EOLhyphen"/>mitted to Sin nor the Righteous to ſuffer here. The Saints are ſo wiſe as to look upon themſelves as Strangers, and Sojourners, and Pilgrims. <hi>Pſal.</hi> 39. 12. <hi>I am a ſtranger with thee, and a ſojourner, as all my fathers were.</hi> And the Carnal minded, though they live as if they were to live here always; yet their time is really very ſhort, and ſome<g ref="char:EOLhyphen"/>times much ſhortned by Sin: they will ſoon be at their long home.</p>
+            <p n="3">3 This time is ſaid to <hi>be lived in the fleſh,</hi> 1 <hi>Pet.</hi> 4. <hi>That he no longer ſhould live the reſt of his time in the fleſh to the luſts of men, but to the will of God.</hi> While the <hi>Soul</hi> of Man is linked to the <hi>Fleſh,</hi> there are ſenſitive Appetites and In<g ref="char:EOLhyphen"/>clinations, which are apt to be eager, and to exceed due bounds. The Senſes are doors at which, many things enter, which prove a ſnare to the Soul; and are made uſe of by the Tempter to entice and entangle the Heart, and to draw it away from God. Here is great reaſon for vigilan<g ref="char:EOLhyphen"/>cy, leſt the <hi>pleaſing and minding of the body</hi> cauſe the <hi>neg<g ref="char:EOLhyphen"/>lecting of the Soul,</hi> and the <hi>ruine of both</hi> for ever.</p>
+            <p n="4">4 This time is ſtiled <hi>the accepted time,</hi> 2 <hi>Cor.</hi> 6. 2. <hi>Behold, now is the accepted time: behold, now is the day of Salvation.</hi> Now is the time, wherein Man may accept of Chriſt, and God will accept of Man. Man may accept of the of<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ers made in the Goſpel, and God will accept of returning Prodigal <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> if being weary of the <hi>far Country,</hi> they come home to their <hi>Fathers Houſe,</hi> Luk. 15. They that have
+<pb n="7" facs="tcp:35181:6"/> been guilty of the greateſt Sins, and have made themſelves moſt abominable, and foul, and vile; yet, if they look to Jeſus, and cry to God, iniquity ſhall be taken away, they ſhall be graciouſly received, and healed: but when Time is ended, not one offer of Grace ſhall be made more.</p>
+            <p n="5">5. This Time when once ended, <hi>more Time will never be granted.</hi> Death puts a ſtop to Time; and immediate<g ref="char:EOLhyphen"/>ly we enter upon Eternity. <hi>The end of all things is at hand,</hi> 1 <hi>Pet.</hi> 4. 7. Time will end quickly. There are ſeveral truths which God has confirmed with an <hi>Oath;</hi> as that <hi>In bleſſing, He will bleſs his people;</hi> that the <hi>
+                  <g ref="char:V">Ʋ</g>nbe<g ref="char:EOLhyphen"/>lieving ſhall never enter into his reſt:</hi> And among other truths, this is one thus confirmed, <hi>That there ſhall be time no longer, Rev.</hi> 10. 6. If it had been poſſible to be ob<g ref="char:EOLhyphen"/>tained, the Rich Man in Hell would rather have begg'd for an <hi>Inch of Time,</hi> than <hi>a drop of water.</hi> Preſently af<g ref="char:EOLhyphen"/>ter the Diſſolution, the <hi>Gulph is fixed,</hi> the Gates both of Heaven and Hell are ſhut ſo faſt, that the happineſs of the one, the miſery of the other, muſt needs be unchange<g ref="char:EOLhyphen"/>able.</p>
+            <p>In the Second place I am to ſhew you, <hi>by whom Mans Time is appointed:</hi> 'Tis by that God, who is the <hi>Ancient of days,</hi> who is <hi>from everlaſting to everlaſting;</hi> who is Lord of Time, and Lord of All. He <hi>determines Times,</hi> as well as the <hi>bounds of our habitations, Acts</hi> 17. 26. In Him all men <hi>live, and move, and have their being;</hi> and Life can laſt no longer, than he affords his gracious Viſitation to preſerve it. Time is in the hand and power of none but God.</p>
+            <p>Three things here obſervable.</p>
+            <p n="1">1. 'Tis the Lord that <hi>vouchſafes to man the time he has;</hi> and this is an argument of his <hi>Good will to him.</hi> We read not of any Time that was granted to the <hi>Apoſtate Angels;</hi>
+               <pb n="8" facs="tcp:35181:7"/> aſſoon as they had ſinned, they were not <hi>ſpared,</hi> but caſt to hell without delay, 2 <hi>Pet.</hi> 2. 4. No ſpace was given them to Repent; no Time allowed to cry for Pardon<g ref="char:punc">▪</g> no ground at all appeared for hope of reconciliation and recovery.</p>
+            <p n="2">2. He orders and <hi>appoints the time he gives, for ſuch and ſuch uſes;</hi> this Talent he requires ſhould be employed. not according to <hi>the Luſts of Men, but according to his own will,</hi> 1 <hi>Pet.</hi> 4. 2. Time is too precious a thing to be idly waſted and laviſh'd in Sins ſervice. To throw away our Gold or Jewels about the ſtreets, is not ſo per<g ref="char:EOLhyphen"/>nicious a folly, as to be prodigal of our Time. He has <hi>work enough</hi> to do with his Time, that is to <hi>work out his own Salvation:</hi> and this is the main buſineſs for which Time is given.</p>
+            <p n="3">3. 'Tis the Lord who <hi>ſets bounds and limits unto mans Time, and it expires at his pleaſure.</hi> When he ſays to thoſe who were formed out of the Duſt, <hi>Return unto your duſt again,</hi> immediately they muſt obey; they that are the greateſt Princes, muſt here be perfectly ſubject. <hi>Their breath,</hi> when God calls for it, <hi>goes forth,</hi> as well as the breath of others; <hi>They return to their earth, and that very day their thoughts periſh, Pſal.</hi> 146. 4. The Apoſtle would have Chriſtians ſenſible, that they <hi>live</hi> at Gods <hi>will,</hi> and no longer than he wills; and that the preſent life they live, is <hi>but a vapour, which appears for a little while, and then vaniſheth away.</hi> Jam. 4. 14, 15.</p>
+            <p>In the Third place, I am to tell you, <hi>to what end Time is appointed.</hi> The end of Time, that is, its <hi>Expiration;</hi> The end of Time, that is, the <hi>Deſign</hi> of giving it; is not at all underſtood by the moſt of men.</p>
+            <p n="1">1. Time is appointed for <hi>ſeeking;</hi> Now is the Time in which our Lord Jeſus comes to <hi>ſeek and to ſave that which is loſt.</hi> He ſeeks after them that are ſtraying, and
+<pb n="9" facs="tcp:35181:7"/> have loſt themſelves in the Wilderneſs of this World, that he may bring them ſafe home. Now is the Time alſo for man to ſeek what is ſo highly worth finding. He is to act the <hi>wiſe Merchant,</hi> and <hi>ſeek the Pearl of great price, Matt.</hi> 13. 46. which will both enrich, and beauti<g ref="char:EOLhyphen"/>fie, and ſave the Soul which is poſſeſſed of it. He is to <hi>ſeek the Lord while he may be found, and to call upon him while he is near, Iſa.</hi> 55. 6. Now the <hi>face</hi> and <hi>ſtrength</hi> of God ſhall not be ſought in vain.</p>
+            <p n="2">2. Time is appointed <hi>for making Peace.</hi> When the Ene<g ref="char:EOLhyphen"/>my is dreadful, his Wrath intollerable, his Power irreſiſti<g ref="char:EOLhyphen"/>ble, certainly Peace is deſirable. Now though God be ſuch an Enemy, and that moſt juſtly an Enemy; yet he is forward to be at peace; he <hi>beſeecheth us to be reconciled,</hi> 2 <hi>Cor.</hi> 5. 20. He tells us, that he is <hi>ready to forgive, and plenteous in mercy to all that call upon him:</hi> Now is the Time to obtain Mercy, to believe in Jeſus the Peace-maker: and if we will believe in this Mediator, God will be no longer a Foe, but a Friend; nay, a Father: and <hi>being juſtified by the blood of Chriſt, we ſhall be ſaved from wrath through him.</hi>
+            </p>
+            <p n="3">3. Time is appointed <hi>for converſion and healing.</hi> They are now called to <hi>return, who have fallen by their iniquity, Hoſ.</hi> 14. 1. How loud, how frequent are theſe Calls! what earneſtneſs is uſed to make Sinners willing and obe<g ref="char:EOLhyphen"/>dient! The Lord proteſts ſolemnly by his own life, that he has no pleaſure in their Death, <hi>Ezek.</hi> 33. 11. <hi>As I live, ſaith the Lord, I have no pleaſure in the death of the wicked; but that the wicked turn from his way and live: turn ye, turn ye from your evil ways; for why will you die, O houſe <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Iſrael?</hi> And if ſuch Calls to turn, are hearkned to, <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ncere Converts, though before never ſo ungodly, ſhall be loved freely, their Souls healed and ſaved.</p>
+            <p n="4">4. Time is appointed <hi>for working.</hi> That was a juſt rebuke which was given, <hi>Mat.</hi> 20. 6. <hi>Why ſtand ye here</hi>
+               <pb n="10" facs="tcp:35181:8"/> 
+               <hi>all the day idle?</hi> There is a Work which we are with all care and fear to avoid; and that is the ſerving of ſinful Luſts and Pleaſures: <hi>Have no fellowſhip,</hi> ſays the Apoſtle, <hi>with the unfruitful works of darkneſs, Eph.</hi> 5. 11. But the Work of God we ſhould be employed in, with heart and hand, with our whole might and ſtrength, we ſhould count it our Meat and Drink to do it. Now is the Time <hi>to depart from evil, and to do good, that we may dwell for evermore.</hi> And though we are never ſo <hi>ſtedfaſt,</hi> though we <hi>abound never ſo much</hi> in Gods Work, <hi>our labour ſhall not be in vain.</hi>
+            </p>
+            <p n="5">5. Time is appointed <hi>for Warring.</hi> The enemies of our Salvation are many, and mighty; but they are conquera<g ref="char:EOLhyphen"/>ble; nay, they have been already Conquered, and Tri<g ref="char:EOLhyphen"/>umphed over by the Captain of our Salvation. He <hi>has condemned Sin in the fleſh, Rom.</hi> 8. 3. <hi>He has ſpoiled Prin<g ref="char:EOLhyphen"/>cipalities and Powers, and made a ſhew of them openly, tri<g ref="char:EOLhyphen"/>umphing over them in the Croſs, Col.</hi> 2. 15. He <hi>has overcome the World, Joh.</hi> 16. <hi>ult.</hi> What though theſe enemies are above our Match; if we vigorouſly engage in the Com<g ref="char:EOLhyphen"/>bat, <hi>being ſtrong in the Lord, and in the power of his might, putting on the whole armour of God,</hi> we ſhall be <hi>more than Conquerors</hi> in the end. Sin is the worſt Enemy of all; if Sin be ſubdued, we need not fear any other.</p>
+            <p n="6">6. Time is appointed to <hi>make proviſion for eternity.</hi> A future State is certain, and 'tis very near. Man muſt of neceſſity <hi>be</hi> to Eternity; and therefore not to think of, or be concerned about, or provide for Eternity, is the very height of madneſs. We ſhould juſtly blame a man that ſhould ſpend his Eſtate in fareing ſumptuouſly for a day, and beg all his days after. But how much more blame-worthy is he, who minds only a ſhort and preſent Conſolation, and ventures upon Eternal Miſery! Now is the time to <hi>lay up in ſtore for our ſelves a good foundation, that we may lay hold of eternal life,</hi> 1 <hi>Tim.</hi> 6. 19</p>
+            <pb n="11" facs="tcp:35181:8"/>
+            <p n="7">7 Time is appointed to <hi>render Man inexcuſable in caſe of final obſtinacy and impenitency.</hi> When God calls, if man refuſes, and will not know the day of his gracious viſitation, but neglects the things which concern his peace; then if he dye an Enemy, and is dealt with as an Enemy, and is thrown into everlaſting Puniſhment, the fault is his own. God will be juſtified and clear'd when man receives the Sentence of Eternal Condemnation. How may the Reprobate Angels accuſe and plead againſt ſinful Man at the great Day, and ſay, O thou Righteous Judge! <hi>They</hi> have done worſe than <hi>We,</hi> they have contemned Mercy which we never had the offer of; We never had any; but they have had ſpace to Repent, and yet they Re<g ref="char:EOLhyphen"/>pented not.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. If time is appointed to man, <hi>acknowledge the merciful kindneſs of God towards him.</hi> His ſuffering ſinful Man to live ſo long, and to enjoy the ſeaſons and means of Grace, is a plain demonſtration of his Com<g ref="char:EOLhyphen"/>paſſions towards him, and how unwilling he is that Man ſhould periſh. To this purpoſe ſpeaks the Apoſtle, 2 <hi>Pet.</hi> 3.</p>
+            <p>
+               <hi>The Lord is long-ſuffering to us-ward, not willing that any ſhould periſh, but that all ſhould come to Repentance.</hi> Man is dead in Law, condemned to die; how great is that Mercy that ſteps in between Sentence and Execu<g ref="char:EOLhyphen"/>tion, and allows ſo much time to ſue for Pardon!</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> 2. <hi>Admire the laſting of time where 'tis ſinfully waſted and laviſht away.</hi> When onely Sin and Satan are ſerved with that Time, which God gives, 'tis a wonder that it i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not ſuddenly taken away. The Patience of an All-ſeeing, All-powerful, and Holy God, is a marvellous thing towards ſinful Man: though he lives to the provocation and diſhonour of his Maker and Preſerver, yet behold, <hi>he lives ſtill.</hi> Yet, let not Man preſume, for the more pa<g ref="char:EOLhyphen"/>tience
+<pb n="12" facs="tcp:35181:9"/> has been abuſed, the greater will be the following fury; and the Viols of Wrath will be the fuller againſt the day of Righteous Judgment.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 3. <hi>Comply with Gods deſign in vouchſafing time to you.</hi> Much is loſt, and oh what a Preaſure was that which is loſt! therefore redeem the remainder. If you Time be done, and your Work undone, you are undone with<g ref="char:EOLhyphen"/>out remedy. The ſlothful ſervant who was ſleeping, when he ſhould have been Working, was bound hand and foot, and caſt into utter Darkneſs. Work hard in the Lords Vineyard, that when he comes to reckon, he may find you employed diligently, <hi>Luk.</hi> 12. 43. <hi>Bleſſed is that ſervant whom his Lord when he cometh ſhall find ſo doing.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 4. Remember that the <hi>bounds of time are unknown, and therefore do not reckon as if there were a great deal to come.</hi> The Prodigal that thinks his Eſtate will never b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpent, how does he ſend it flying? if you reckon you ſhall live <hi>very long,</hi> 'tis a thouſand to one but you will live <hi>very ill.</hi> How was the Old World drowned in wicked<g ref="char:EOLhyphen"/>neſs, before it was drown'd in Water? and one reaſon might be, becauſe 'twas uſual for men to live Seven or eight, or nine hundred years; hence grew ſecurity in Sin, God was neglected, Death unthought of, and Repentance delay'd. Death may be very near, when you leaſt think of dying. You are <hi>not to boaſt of to morrow,</hi> which poſſi<g ref="char:EOLhyphen"/>bly you may not live to ſee; but <hi>as the Holy Ghoſt ſays, To day if ye will hear his voice, harden not your hearts,</hi> Heb. 3. 7, 8.</p>
+            <p>
+               <hi>Doct.</hi> 2. The Second Doctrine is this, <hi>A Change will come, and put an end to this time, which is appointed to Man.</hi> Mortality and Change are conſequent upon Sin. Aſſoon as we are born, Death ſets out towards us, and
+<pb n="13" facs="tcp:35181:9"/> it approacheth nearer and nearer every moment. <hi>What man is he that liveth and ſhall not ſee death? Pſal.</hi> 89. 48. Every one that lives, as ſure as he lives, ſhall dye.</p>
+            <p>In the handling of this Point, I ſhall,</p>
+            <list>
+               <item>1. Shew in what reſpects <hi>Death may be called a Change.</hi>
+               </item>
+               <item>2. Prove, that <hi>Death will come.</hi>
+               </item>
+               <item>3. When this Change at Death comes, <hi>that time will be at an end.</hi>
+               </item>
+            </list>
+            <p>Laſtly, <hi>make Application.</hi>
+            </p>
+            <p>In the firſt place, I am to ſhew, in what reſpects <hi>Death may be called a Change.</hi>
+            </p>
+            <p>Death is a great Change in reference to <hi>Sinners,</hi> and in reference to <hi>Saints.</hi>
+            </p>
+            <p n="1">1. Death is a <hi>Change in reference to Sinners.</hi> A ſad and bad Change, which they may tremble to think of. Sin<g ref="char:EOLhyphen"/>ners wiſh they might live here to Eternity, that they might Sin to Eternity; and they juſtly deſerve Puniſh<g ref="char:EOLhyphen"/>ment to Eternity: but though their wills be deſperately bad, yet their wiſhes are vain. Though Death is more bold than welcome, yet 'twill make bold with the higheſt and ſecureſt of them. Their Change is coming: now Death is a Change in ſeveral reſpects.</p>
+            <p n="1">1. Death is a Change, in reference <hi>to their outward comforts.</hi> All theſe take their flight at Death; or rather, Sinners take their flight away from them. The Rich Man in the Goſpel, <hi>Luk.</hi> 16. after Death, taſtes no more of his ſumptuous fare, he is turned out of his Houſe, he is ſtript <hi>of his purple and fine linnen;</hi> all the good things that he received here, he left behind him when he went into another World. I grant, the Godly leave their out<g ref="char:EOLhyphen"/>ward Comforts too, but they exchange them for better: but Wicked Men here <hi>receive all their Conſolation;</hi> and nothing but Evils and Torment abide them after their
+<pb n="14" facs="tcp:35181:10"/> diſſolution. Death lays their Honour in the Duſt, puſhes off the Crown from the graceleſs Monarchs Head; proves the Richeſt, meer Beggars.</p>
+            <p n="2">2. Death is a Change in reference <hi>to their outward Man.</hi> Their Bodies, which the ungodly take ſo much time and pains to adorn and pamper, are ſtrangely alter'd; the ſprightly Heat, is turned into coldneſs, Strength into the clean contrary, Beauty into a ghaſtly paleneſs, the beſt Conſtitution into rottenneſs and corruption.</p>
+            <p>I grant the Earthly Tabernacle of the Saints alſo falls to the ground, but 'twill riſe again with advantage; but the Bodies of the Wicked will riſe to Puniſhment, and that this may be Eternal, put on a wretched Immortality.</p>
+            <p n="3">3. Death is a Change, in reference <hi>to that peace and con<g ref="char:EOLhyphen"/>fidence that ſinners before were full of.</hi> The hope of the wicked <hi>is as the giving up of the Ghoſt;</hi> and all their truſt is as a <hi>Spiders web,</hi> ſpun out themſelves, weak, and eaſily ſwept away. Immediately after Death, they will perceive their miſtakes, and ſmartingly be convinced, that their confidences were vain. Now they <hi>cry peace and ſafety,</hi> and let the Curſe ring never ſo loud, they bleſs themſelves in their hearts, though they walk on in their evil way; but then they will perceive and curſe their Carnal Secu<g ref="char:EOLhyphen"/>rity. Their Building being on the <hi>ſand, will fall, and great will be the fall of it, Matt.</hi> 7. 27.</p>
+            <p n="4">4. Death is a Change in reference <hi>to Hope and poſſibility of Salvation.</hi> As <hi>vain hopes</hi> will be at an end, ſo <hi>All hope</hi> will be gone; The Goſpel will be claſped and ſealed up for ever: the Night will be come, and the time of work<g ref="char:EOLhyphen"/>ing out Salvation, over. Hark what was ſaid to the Rich Man in Hell! <hi>There is a great gulph fixed between us and you,</hi> which 'tis impoſſible to paſs. This Deſpair will cauſe un<g ref="char:EOLhyphen"/>utterable Anguiſh, 'twill prove the Hell of Hell. How intollerable will that Fire be, which there is no hope of having quenched! How dreadful that Worm, where there is no hope of its dying.</p>
+            <pb n="15" facs="tcp:35181:10"/>
+            <p n="5">5. Death is a Change, in reference to <hi>that patience that was exerciſed towards them;</hi> for Judgment, Sentence, and Eternal Puniſhment does follow upon the abuſe of it. God will then caſt the Ungodly away for ever, and he will be favourable no more; but in Anger ſhut up all his Mercies. All their Sins will find them out at Death, accompany them to the Judgment Seat, cry out for Ven<g ref="char:EOLhyphen"/>geance upon them; God will eaſe himſelf of ſuch Ad<g ref="char:EOLhyphen"/>verſaries that were a burden to him while they lived; and they will ſadly find, that while they <hi>deſpiſed his good<g ref="char:EOLhyphen"/>neſs and long ſuffering, they treaſured up to themſelves wrath againſt the day of wrath,</hi> Rom. 2. 4, 5.</p>
+            <p n="2">2. Death is a Change, with reſpect <hi>unto the Saints,</hi> and this is as bleſſed as the t'other is diſmal. A gracious Change is wrought in Believers at their firſt <hi>Converſion;</hi> and that Change is perfected at their <hi>Diſſolution.</hi> What an ex<g ref="char:EOLhyphen"/>cellent Creature will a renewed Soul be, when 'tis out of the Body, and made <hi>perfect</hi> in glory! Surely there is no juſt ground for a Saint to fear dying; but upon many accounts 'tis really deſirable.</p>
+            <p n="1">1. At Death <hi>the Saints change their habitation;</hi> they leave the Earthly Tabernacle, and go <hi>to a houſe not made with hands, eternal in the heavens,</hi> 2 <hi>Cor.</hi> 5. 1. They no longer ſay, <hi>Wo is us that we dwell in Meſhech, and inhabit the tents of Kedar.</hi> This Earth was a place full of trouble to them; they were gazed at, ſcorn'd, reproached, perſe<g ref="char:EOLhyphen"/>cuted; but in Heaven they meet with other kind of com<g ref="char:EOLhyphen"/>pany; there is nothing but love, and peace, and ſweetneſs among the innumerable company of Angels, and the gene<g ref="char:EOLhyphen"/>ral Aſſemblie, and Church of the Firſt born, which are Enrolled in Heaven. The houſe of Clay is changed to a City which has Foundations, whoſe Builder and Ma<g ref="char:EOLhyphen"/>ker is God.</p>
+            <p n="2">2. Their <hi>State of abſence is changed, and they are preſent</hi>
+               <pb n="16" facs="tcp:35181:11"/> 
+               <hi>with the Lord.</hi> 'Tis true, Believers in this World are brought nigh to God by the Blood of Chriſt; they are brought into his favour, and admitted unto fellowſhip with him; whereas, wicked Men are far from God, and dwell in the Suburbs of Hell and Deſtruction: but yet, <hi>this Nearneſs</hi> of the Saints to Chriſt, and to his Father, is but a <hi>Diſtance</hi> in compariſon of <hi>that Nearneſs</hi> which will be in Glory: Therefore ſays the Apoſtle, <hi>Whiles we are at home in the body, we are abſent from the Lord.</hi> And are <hi>willing rather to be abſent from the body, and to be pre<g ref="char:EOLhyphen"/>ſent with the Lord,</hi> 2 Cor. 5. 6, 8. <hi>Deſertion,</hi> though the common exerciſe of Saints on Earth, will in Heaven be no more; they ſhall be delivered from all cauſes of Gods withdrawing, they ſhall be ſo near as to ſee their Lord as he is; and his Face will be towards them, and the light of his Countenance ſhine upon them, without the leaſt inter<g ref="char:EOLhyphen"/>ruption or Eclipſe, unto Eternity.</p>
+            <p n="3">3. There is a Change, <hi>from ignorance and darkneſs, (much of which remained even in the children of light) unto perfect knowledge.</hi> Believers in this World, who are moſt of all Enlightned, <hi>do know but in part,</hi> and therefore 'tis their duty to be ſtill growing both in Grace and Know<g ref="char:EOLhyphen"/>ledge; but when Death comes, that which is <hi>perfect is come, and that which is in part ſhall be done away,</hi> 1 <hi>Cor.</hi> 13. 10. Heaven is called an <hi>inheritance in Light.</hi> Oh what a full underſtanding will there be of the Works and of the Word of God! What clear views of God himſelf, and Jeſus Chriſt, who lives and reigns at his right hand, will be there vouchſafed! All the ignorance that followed up<g ref="char:EOLhyphen"/>on eating the Tree of Knowledge, will be cured; all ſtrangeneſs and doubtings concerning God, his Goodneſs and his Love, will be at an end: Glorified Saints ſee, what Militant Saints can't bear.</p>
+            <p n="4">4. There is a Change at Death, <hi>from incompleat grace, to glorious and ſinleſs purity and holineſs.</hi> The body of ſin
+<pb n="17" facs="tcp:35181:11"/> is put off when the Saints put off this Mortal Body. The ſeparated Souls of the Juſt ones, have no External Senſes, nor any ſenſual and fleſhly inclinations; Death removes them out of the World, ſo that nothing hence is any lon<g ref="char:EOLhyphen"/>ger a Temptation; they are alſo out of the Tempters reach; and then they have a ſight of their <hi>Lord as he is,</hi> and this ſight Transforms them into <hi>his likeneſs,</hi> 1 <hi>Joh.</hi> 3. 2. Grace that was here only in the bud, will then be full blown; Holineſs will be perfected, and all filthineſs both of the Fleſh and Spirit cleanſed away: It may truly be ſaid then concerning the Spouſe of Chriſt; <hi>O my love, thou art all fair, there is no ſpot in thee.</hi>
+            </p>
+            <p n="5">5. There is a Change, <hi>from War and Labour, unto Reſt and Triumph.</hi> 'Tis no eaſie matter to be Saved. The Saints are put upon hard work and ſervice, they are to <hi>watch,</hi> to <hi>pray,</hi> to <hi>ſtir up themſelves, to lay hold on God.</hi> They are to <hi>contend earneſtly for the faith,</hi> to <hi>ſtrive to enter in at the ſtrait gate.</hi> They are to uſe an holy Violence, that they may by a kind of ſtorming take the heavenly Kingdom; all oppoſition from the Worlds Rage, and the power and wrath of Helliſh Principalities, they muſt break thorow. But at Death their Warfare is accompliſhed, they <hi>reſt from their Labours, Rev.</hi> 14. 13. They go then to their Lord, and receive their reward which he has freely and faithfully promiſed; and <hi>having been faithful in a little, they are made rulers over much;</hi> they have <hi>fought the good fight, and fi<g ref="char:EOLhyphen"/>niſhed their courſe:</hi> and having been <hi>more than conquerors through him that loved them,</hi> they <hi>ſit down with him on his throne,</hi> and are Crowned with Life and Glory, and ſhall wear that Crown for ever.</p>
+            <p n="6">6. When the Saints dye, there is a Change <hi>from all man<g ref="char:EOLhyphen"/>ner of Sorrow, unto fullneſs of joy and pleaſures for ever<g ref="char:EOLhyphen"/>more.</hi> Oh how glad will they be to ſee themſelves ſafely arrived to the <hi>fair Haven,</hi> after the many Storms which beat upon them in this World! to perceive themſelves ſafe<g ref="char:EOLhyphen"/>ly
+<pb n="18" facs="tcp:35181:12"/> ſecur'd in Heaven, and that they are <hi>made pillars in the temple of God, and ſhall go out no more! Rev.</hi> 3. 12. When they come to ſee their Lord and Husband Jeſus, and God their Father; and to the uttermoſt of their capacity, they are filled with his Love, and ſatisfied with his Image; Oh then all tears will be dried up, Sin and Sorrow are Eter<g ref="char:EOLhyphen"/>nal Strangers in the <hi>New Jeruſalem;</hi> Joy will be full, and the fuller, becauſe 'twill never end.</p>
+            <p>In the Second place follow the Arguments to prove, <hi>That Death which is ſuch a Change, will certainly come.</hi>
+            </p>
+            <p n="1">1. Death is <hi>merited by Sin:</hi> It was upon the Sin of Man that that Sentence was paſt upon him, <hi>Gen.</hi> 3. 19. <hi>In the ſweat of thy face ſhalt thou eat thy bread, until thou return to the ground, for out of it waſt thou taken: for duſt thou art, and unto duſt ſhalt thou return.</hi> Now <hi>all</hi> having Sinned, <hi>Death paſſes upon all, Rom.</hi> 5. 12. Aſſoon as Man became a Sinner, preſently he became Mortal. Death had not been able to have entred into the World, if Sin had not firſt got entrance: If Man had never Sinned, the Tree of Life was to aſſure him, he ſhould never have died.</p>
+            <p n="2">2. Death is <hi>appointed,</hi> and the appointment is moſt firm and unchangeable: let an exception be made of <hi>Enoch</hi> and <hi>Elias,</hi> and them that ſhall be found alive at the Laſt Day, and the appointment is general, <hi>Heb.</hi> 9. 27. <hi>Con<g ref="char:EOLhyphen"/>ſtitutum eſt omnibus ſemel mori; pleriſque bis.</hi> It is ap<g ref="char:EOLhyphen"/>pointed unto all men once to die, and the Second Death will be the Portion of the moſt that Live. The Grave is called, <hi>The Houſe appointed for all the living,</hi> that's the dark and ſilent place where all the dwellers upon Earth muſt make their aboad until the Reſurrection.</p>
+            <p n="3">3. Chriſt does <hi>not deliver thoſe that are dear to him from the ſtroak of death,</hi> though he does always from the Sting of it. If there were any hope to be freed from
+<pb n="19" facs="tcp:35181:12"/> taſting of Death, that expectation muſt be from our Me<g ref="char:EOLhyphen"/>diator: but though he makes the bodies of Believers his <hi>own Members,</hi> and <hi>the temples of his Spirit;</hi> yet he ſuffers them to fall down to the ground, that <hi>too viſible</hi> a diffe<g ref="char:EOLhyphen"/>rence may not be made between the Righteous and the Wicked <hi>here,</hi> and that his <hi>power may be glorified</hi> in raiſing them up again at the Laſt Day. And certainly the Lords power and love, will be exceeding Glorious, when <hi>this corruptible ſhall put on incorruption, and this mortal immor<g ref="char:EOLhyphen"/>tality.</hi>
+            </p>
+            <p>In the Third place, I am to make it manifeſt, <hi>That Time comes to an end,</hi> when this Change comes.</p>
+            <p n="1">1. One Argument ſhall be drawn <hi>from the Eternal Re<g ref="char:EOLhyphen"/>wards which upon their diſſolution are received by the Righ<g ref="char:EOLhyphen"/>teous.</hi> The Saints in Heaven need no more time, for their work is done: Aſſoon as they <hi>depart they are with Christ;</hi> they are <hi>cloathed upon with their houſe which is from Hea<g ref="char:EOLhyphen"/>ven,</hi> 2 <hi>Cor.</hi> 5. 2. They have no need more of a Day of Grace, who have received an exceeding and eternal weight of Glory. And truly 'tis well for them that their time is over, ſince they have made good uſe of it; and time being over, they are in Eternity, and now their State and Happineſs is fixed. <hi>Rom.</hi> 6. 23. <hi>The gift of God is eternal life, through Jeſus Chriſt our Lord.</hi>
+            </p>
+            <p n="2">2. A Second Argument ſhall be drawn from <hi>the Ever<g ref="char:EOLhyphen"/>laſting Puniſhments which after Death are inflicted on the wicked.</hi> We read <hi>Luke</hi> 16. That the Wicked Rich Man died and was buried; and the next News we hear of him, is, That he was in <hi>Hell,</hi> and ſhut up there, ſo as never to come out more. He does not pray for a <hi>releaſe</hi> out of his Torments, that was deſpaired of; but onely for a <hi>little mi<g ref="char:EOLhyphen"/>tigation;</hi> and truly it was but a ſmall kindneſs, that a drop of water could have done him, in the midſt of ſuch flames as are in Hell; and yet even that is denied. The ungod<g ref="char:EOLhyphen"/>ly
+<pb n="20" facs="tcp:35181:13"/> that are taken out of the World, had time afforded them: but they were ſuch Fools as to ſpend it all in Sin and Va<g ref="char:EOLhyphen"/>nity; and now no more ſhall be granted <hi>for further Trial,</hi> after Eternal Puniſhment has overtaken them.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. If a Change is coming which will put an end to Time; <hi>See the vanity of things Temporal.</hi> The Apoſtle thought them not worth his love; nay, not worthy of a <hi>look,</hi> 2 <hi>Cor.</hi> 4. 18. <hi>We look not at the things that are ſeen, but at the things that are not ſeen; for the things that are ſeen are temporal, but the things that are not ſeen are eter<g ref="char:EOLhyphen"/>nal.</hi> The wiſe Man, becauſe of the <hi>Non-continuance</hi> of Earthly things, charges them with a <hi>Non-exiſtence,</hi> that he might diſgrace them, and ſhew the unreaſonableneſs of being eager after them. <hi>Prov.</hi> 23. 4, 5. <hi>Labour not to be rich, ceaſe from thy own wiſdom; Wilt thou ſet thine eyes upon that which is not? for riches certainly make themſelves wings, and fly away as an Eagle towards heaven.</hi> And it may truly be ſaid, that Honours and Pleaſures have as ſwift wings as Riches.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 2. Study <hi>how vain you your ſelves are;</hi> Let Man ceaſe from himſelf, from being <hi>conceited of himſelf,</hi> from <hi>truſting in himſelf;</hi> for his <hi>breath is in his nostrils, and wherein is he to be accounted of,</hi> Iſa. 2. <hi>ult.</hi> Man was the Cauſe why the <hi>Creature was made ſubject unto vanity, Rom.</hi> 8. Now the Philoſopher ſays, <hi>Propter quod unumquod<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> eſt tale, illud eſt magis tale:</hi> The fire that makes the water hot, has a greater heat in it ſelf; and if Man was the cauſe of the Creatures Vanity, certainly in a ſenſe he is the vaineſt Creature. This methinks ſhould hide Pride from Man, and make him very humble, ſince the <hi>Pſalmiſt</hi> ſpeaks generally of all, though in the moſt exalted Earthly State, that they are Vanity in the Abſtract, <hi>Pſal.</hi> 39. 5. <hi>Verily every man at his best eſtate is altogether vanity.</hi> Selah.</p>
+            <pb n="21" facs="tcp:35181:13"/>
+            <p> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 3. Remain not <hi>under the guilt and dominion of Sin, which will make Death a Change ſo very dreadful.</hi> Come unto Jeſus, in whom both <hi>Strength</hi> and <hi>Righteouſneſs</hi> is to be found? that you may be delivered from Sins Power, and eſcape Sins Puniſhment: Remember, that Sin is the very Sting of Death, and merits Hell; that all its gains and pleaſures are deceitful; Oh haſten from under the Curſe it deſerves, and the bondage of it. If you hear and be<g ref="char:EOLhyphen"/>lieve on the Son of God, he will make you free indeed, from Sin, which is indeed the greateſt evil. Remember Death both firſt and ſecond, are Sins Wages; will you any longer ſerve it? Oh change your Maſter quickly, and <hi>have your fruit to holineſs, and the end eternal life.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 4. Think it <hi>not ſtrange when relations are taken a<g ref="char:EOLhyphen"/>way, and ſorrow not as without hope,</hi> when you have good reaſon to hope that they ſleep in Jeſus. <hi>Valerius Maxi<g ref="char:EOLhyphen"/>mus</hi> l. 5. <hi>c.</hi> 10. tells, that when <hi>Anaxagoras</hi> was told of the loſs of his ſon, he replied, you tell me of nothing unexpected, <hi>Ego enim illum ex me natum ſciebam eſſe mor<g ref="char:EOLhyphen"/>talem, I knew my ſon to be but mortal.</hi> If an Heathen ſpeakes thus, ſhall Chriſtians ſhew leſs ſtrength and pa<g ref="char:EOLhyphen"/>tience? that children and other relations dye, is no marvel: that they live ſo long, and that the change of ſuch frail creatures does come no ſooner, is the greater wonder. The better our relations are, their loſs is the greater, but yet the greateſt loſs may be born with greateſt patience, underſtanding how gainful death is to them.</p>
+            <p>It was the deſire of that <hi>excellent Chriſtian</hi> lately de<g ref="char:EOLhyphen"/>ceaſed, that her Funeral Sermon might be preached <hi>on a Lords-day,</hi> becauſe more might hear, and be awakened, and made ſerious and profit by hearing. It was far I am con<g ref="char:EOLhyphen"/>fident from her deſire to be <hi>publickly commended:</hi> but thoſe that <hi>least deſire,</hi> do <hi>beſt deſerve</hi> commendation. There
+<pb n="22" facs="tcp:35181:14"/> were ſeveral gracious qualities which God had endued her with, which I think it uſeful to mention, that others may be brought into an imitation.</p>
+            <p n="1">1. I begin with <hi>her humility.</hi> She had low thoughts of her ſelf: was very ſenſible of her imperfections, and that by <hi>the grace of God ſhe was what ſhe was.</hi> Though her eſtate was very plentiful, yet ſhe did not affect a <hi>flanting garb,</hi> but went like a <hi>daughter of Sion, not of Sodom.</hi> I never ſaw <hi>a Bull-Tower or a Curl upon her forehead.</hi> She took more pains about her <hi>heart,</hi> then to <hi>dreſs and adorn her head.</hi> All that did obſerve her, muſt needs acknowledg that ſhe had very much of that ornament of <hi>a meek and quiet ſpirit, which is in the ſight of God of great price.</hi>
+            </p>
+            <p n="2">2. She <hi>valued the Miniſtry and Ordinances of Chriſt at an high rate.</hi> She felt the power of the Lord Jeſus, and ſaw his matchleſs beauty in his houſe, at his table, and therefore rightly judged it was good far her to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e there. It was the deſire of her Soul, to dwell in the Sanctuary of her God; there ſhe underſtood the end of the ungodly, and that in their greateſt proſperity, they ſtand but in ſlippery places. She lookt upon the counſels of God as a ſafe guide to glo<g ref="char:EOLhyphen"/>ry; ſhe ſaw that in God, as made her deſire him above all, and chuſe him to <hi>be her portion for ever.</hi>
+            </p>
+            <p n="3">3 She had <hi>her ſpirit and paſſions hugely under government.</hi> If he that is <hi>ſlow to anger be of great underſtanding:</hi> cer<g ref="char:EOLhyphen"/>tainly ſhe was a perſon of great wiſdom. Some were rea<g ref="char:EOLhyphen"/>dy to queſtion whether ſhe <hi>could</hi> be angry. This gentle<g ref="char:EOLhyphen"/>neſs of Chriſt ſhining forth in her, made her converſation very amiable. A great <hi>eveneſs of ſpirit</hi> I obſerved in her, very patient under her laſt ſickneſs, which truly was long, tedious, and very painful: and as ſhe did not murmur a<g ref="char:EOLhyphen"/>gainſt God tho under his mighty hand: ſo ſhe was far from being eaſily provoked by any one.</p>
+            <p n="4">4. She was <hi>not at all talkative,</hi> ſhe knew an <hi>unbridled tongue</hi> will <hi>make all profeſſion of religion vain.</hi> She was
+<pb n="23" facs="tcp:35181:14"/> 
+               <hi>ſwift to hear,</hi> and <hi>ſlow to ſpeak,</hi> as well as ſlow to wrath. <hi>A rare vertue,</hi> for in <hi>multitude of words</hi> ſays Solomon, <hi>there wanteth not ſin.</hi> An <hi>argument of prudence:</hi> For ſays a greater than Solomon, <hi>For every idle word which men ſhall ſpeak, they ſhall give an account thereof at the day of Judg<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p n="5">5. She was well <hi>ſetled and eſtabliſht in the way of truth.</hi> Temptations ſhe ſometimes met with to ſeduce her, but upon trial was found not to be <hi>like a child toſt to and fro with every wind of doctrine.</hi> She was girt about with the girdle of truth, had on the breaſt-plate of righteouſneſs, fought the good fight, and kept the faith unto the end.</p>
+            <p n="6">6. She was <hi>a ſingular example of obedience to Parents.</hi> I have heard her father ſay, <hi>ſhe was a child that never diſo<g ref="char:EOLhyphen"/>beyed him,</hi> tho being an onely child, her diſobedience if it had been, was more likely to be pardoned: ſo good in all her relations, that I wiſh her <hi>Father</hi> and <hi>her Husband grace from above</hi> to bear the loſs they have ſuſtained, and that <hi>her Mother may have extraordinary ſtrength vouchſafed, that ſhe may not be over-whelmed, and dye with extremity of grief and ſorrow.</hi>
+            </p>
+            <p>Such an one ſhe was while ſhe lived; and to conclude, <hi>Her God was with her,</hi> when ſhe was in <hi>the valley of the ſhadow of Death.</hi> Melancholick vapours prevailing, <hi>Satan</hi> took an advantage againſt, to perplex her with hurries, and doubts, and fears. But not many hours before ſhe died, the Clouds were ſcattered, and Evidences for Hea<g ref="char:EOLhyphen"/>ven clear'd. When I asked her concerning the frame of her Spirit: Her anſwer was, ſhe had <hi>no Doubts at all;</hi> theſe were her very words, concerning her Eternal State, <hi>Mark the perfect, and behold the upright, for the end of ſuch is peace.</hi>
+            </p>
+            <p>Well, She who was ſo ſerious and attentive <hi>an hearer</hi>
+               <pb n="24" facs="tcp:35181:15"/> among us, that uſed with ſuch longings after Chriſt, and hungrings after Righteouſneſs, to <hi>Communicate with us at the Lords Supper:</hi> her Change is come, and ſhe is joyned to another Congregation. She is gone to the <hi>Heavenly Jeruſalem,</hi> to the <hi>general Aſſembly and Church of the Firſt-born,</hi> to an <hi>innumerable company of Angels, and the ſpirits of juſt men made perfect;</hi> where her Eternal employment will be to be <hi>ſinging hallelujahs to him that ſits upon the Throne, and to the Lamb for ever.</hi>
+            </p>
+            <p>
+               <hi>Doctr.</hi> 3, The Third Doctrine follows, <hi>To be waiting for their Change, is the practiſe of the Saints, and would be the wiſdom of all.</hi> Thus <hi>Job</hi> in the Text <hi>waited,</hi> the thoughts of Death were ſo frequent and familiar, that he ſeemed to dwell in the Grave while alive: <hi>the Grave is my Houſe:</hi> he claims kindred with the Worms and Corruption; <hi>I have ſaid to Corruption, thou art my Father; to the Worm, thou art my Mother and my Siſter.</hi>
+            </p>
+            <p>In the handling of this Doctrine, I ſhall</p>
+            <list>
+               <item>1. Tell you what it is <hi>to wait for this Change.</hi>
+               </item>
+               <item>2. <hi>Why thus to wait</hi> is the Saints practiſe; and if there be good reaſon for their practiſe, 'twill be evident with<g ref="char:EOLhyphen"/>out more ado, that this would be the Wiſdom of all.</item>
+               <item>Laſtly, conclude with the Application.</item>
+            </list>
+            <p>I begin with the Firſt, What it is <hi>to wait for this Change.</hi>
+            </p>
+            <p n="1">1. Waiting, implies a firm belief and perſwaſion, that this Change will be. 'Tis eaſie in the general to believe <hi>that all muſt dye;</hi> but particularly to apply this to <hi>ones ſelf</hi> is very difficult; this knowledge of ones <hi>own frailty</hi> comes from Heaven; and a right Faith concerning Dying, is really the gift and work of God. Hark to <hi>David, Pſal.</hi> 39 4. <hi>Lord make me to know my end,</hi> and the mea<g ref="char:EOLhyphen"/>ſure <hi>of my</hi> days what it is, that I may know <hi>how frail I am:</hi> and being thus taught, then he cries <hi>out, My days are</hi>
+               <pb n="25" facs="tcp:35181:15"/> 
+               <hi>an hand-breadth, and my age is as nothing before thee.</hi>
+            </p>
+            <p n="2">2. An <hi>expectation of this change, as that which is poſſible every day.</hi> The Apoſtle proteſts that he <hi>died daily,</hi> 1 Cor<g ref="char:punc">▪</g> 15. 31. He not only advanced in the work of mortifi<g ref="char:EOLhyphen"/>cation, and dying to ſin, and this world, every day, but he lookt upon Death as every day poſſible. <hi>Stobeus, Ser.</hi> 1. Relates of <hi>Muſonius,</hi> that he was of this opinion, that <hi>A man cannot live a day well,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>unleſs he lives it as his laſt.</hi> How many accidents may be<g ref="char:EOLhyphen"/>fal us, that may diſpatch us, and ſpeed us into another world every day? If death be every day poſſible, 'tis but rational to take notice <hi>daily</hi> of that <hi>poſſibility.</hi>
+            </p>
+            <p n="3">3. Waiting for this change implies <hi>preparation for its co<g ref="char:EOLhyphen"/>ming.</hi> And truly <hi>hic labor hoc opus eſt,</hi> here lies the great difficulty. Much muſt be done before a man can be fit to dye; much muſt be done <hi>in him,</hi> much muſt be done <hi>by him:</hi> ſeveral other changes muſt go before that great change, or elſe that great change will be a diſmal one.</p>
+            <p n="1">1. The <hi>State</hi> muſt be changed. Mans natural State is a State of wrath; he muſt therefore come to the Son of God, that he may be juſtified by his blood, and paſs out of this State of wrath, into a State of grace. This is ex<g ref="char:EOLhyphen"/>cellently expreſſed by the Apoſtle, <hi>Rom.</hi> 5. 1, 2. <hi>Being juſtified by faith, we have peace with God through our Lord Jeſus Chriſt; by whom alſo we have acceſs by faith into this grace wherein we ſtand, and rejoyce in hope of the glory of God.</hi> If the State be changed, fear of death may be turned into a joyful hope of future glory.</p>
+            <p n="2">2. The <hi>heart</hi> muſt be changed: the heart of man, by him that is the heart-ſearcher, has a very bad Character gi<g ref="char:EOLhyphen"/>ven it. 'Tis <hi>deceitful above all things, and deſperately wicked. Jer.</hi> 17. 9. Out of the <hi>heart proceeds</hi> whatever <hi>does defile the man.</hi> The heart therefore muſt be made a new one, that its thoughts, deſires, affections, deſigns, may become clean and holy, and that this change may be
+<pb n="26" facs="tcp:35181:16"/> wrought, God muſt be ſought, and his promiſe pleaded, <hi>Ezek.</hi> 36. 26. <hi>A new heart</hi> will I <hi>give you, and a new ſpirit</hi> will I <hi>put within you.</hi>
+            </p>
+            <p n="3">3. The <hi>life</hi> muſt be changed; and where there is a new heart indeed, there will be a walking in newneſs of life. Holineſs of life is neceſſary in reſpect of Gods honour, and the Goſpels credit; we muſt <hi>caſt off the works of darkneſs,</hi> and be <hi>zealous of good works;</hi> for after death we ſhall be <hi>judged according to our works.</hi> Now that the life may be thus changed, we muſt beg, that according to his promiſe, God <hi>would put his ſpirit within us, and cauſe us to walk in his ſtatutes, and to obſerve his judgments, and do them.</hi>
+            </p>
+            <p n="4">4. This ſaving change muſt <hi>be evidenced.</hi> Grace muſt be increaſed, that the actings of it being vigorous and ſtrong, its truth and being may not be doubted. We muſt be diligent obſervers of our ſelves, and in no wiſe contented to be at uncertainties about our eternal State. A certain evidence of grace, will be worth much more than a whole world, when we come to lie upon a death-bed. Give diligence to make all ſure, to make it out that you are effectually called: then you may conclude your intereſt in <hi>Gods electing</hi> love; and when you come to die, an abundant entrance will be adminiſtred into the ever<g ref="char:EOLhyphen"/>laſting kingdom.</p>
+            <p>4. Waiting for this change implies <hi>deſiring it.</hi> The Saints are not to expect it, as an evil; but to deſire it, as that which will put an end to evil. The Apoſtle, who was able to ſay, <hi>To me to live is Chriſt,</hi> adds, <hi>and to die is gain.</hi> And with good reaſon does he afterwards profeſs, <hi>I deſire to depart, and to be with Chriſt, which is far bet<g ref="char:EOLhyphen"/>ter,</hi> Phil. 1. 23. Chriſt died to unſting Death, and to deliver from the fear of it. The Saints need not look upon it as terrible; but <hi>ſhould groan, earneſtly deſiring to be clothed upon with their houſe which is from heaven; that mortality may be ſwallowed up of life,</hi> 2 <hi>Cor.</hi> 5. 2, 4. Death
+<pb n="27" facs="tcp:35181:16"/> is <hi>theirs</hi> as well as Life; Theirs, to do them a kindneſs; too much theirs, to do them any injury.</p>
+            <p n="5">5. It implies <hi>Patience, and eſtabliſhment of heart.</hi> Till this Change is come indeed, Believers are engaged in a Warfare, and they muſt ſtand to their Arms, and be upon Duty, till the Captain of their Salvation call them off, in order to their crowning. They have need of Pati<g ref="char:EOLhyphen"/>ence, that they may act, and fight, and ſuffer unwearied<g ref="char:EOLhyphen"/>ly. Hark to the Apoſtle, <hi>Heb.</hi> 10. 36, 37. <hi>For ye have need of patience, that after ye have done the will of God, ye may receive the promiſe: for yet a little while, and he that ſhall come, will come, and will not tarry</hi> All our life long, by patient continuance in well doing, we muſt ſeek for glory, and honour, and immortality; and then upon our diſſolution, we ſhall lay hold of that life which is e<g ref="char:EOLhyphen"/>ternal.</p>
+            <p>In the ſecond place I am to lay down the Reaſons, <hi>why</hi> 'tis the <hi>Saints practiſe to wait for their change.</hi>
+            </p>
+            <p n="1">1. Becauſe the <hi>coming of it is ſo certain in it ſelf, and ſo uncertain as to the time when 'twill be.</hi> All our cares can<g ref="char:EOLhyphen"/>not prevent our Change: Death will ſurely come: The Decree concerning it is much more unalterable than thoſe of the <hi>Medes</hi> and <hi>Perſians, Dan.</hi> 6. 12. But the time of its approach is concealed. To ſome it comes in the even<g ref="char:EOLhyphen"/>ing of their Age, to ſome at mid-day, to ſome in the ve<g ref="char:EOLhyphen"/>ry morning of their time. All graves are not of a length. Some old, and that's no wonder; ſome Infants, and ſome in their greateſt vigor, have been ſtruck down by Death, and ſhall riſe no more till the laſt day. All therefore at all times ſhould be watchful.</p>
+            <p n="2">2. The <hi>ſpiritual advantage is vaſtly great, which follows upon ſerious waiting for their change.</hi> Waiting for Death will make men flee from ſin. When Satan ſpeaks of ſin's pleaſure and gain, if anſwer be made, <hi>O but at death</hi>
+               <pb n="28" facs="tcp:35181:17"/> 
+               <hi>will ſin be thought pleaſant and gainful?</hi> This will be enough to ſilence him. Waiting for Death will make this World contemptible. When <hi>Eſau</hi> was at the point of Death, he cries out, <hi>What profit will this birth right do me? Gen.</hi> 25. 32. So if we have Death in our eye, we ſhall cry out, What profit will the World then do us, when we are juſt about to leave it? Again, Waiting for death, will keep our Affe<g ref="char:EOLhyphen"/>ctions moderate; neither grief nor joy will be exceſſive about earthly things. Chriſt will be the more prized, and Heaven more longed for.</p>
+            <p n="3">3. The <hi>miſery is inconceivable which falls upon them who never thought of Death ſo as to be prepared for it.</hi> It is ter<g ref="char:EOLhyphen"/>rible in it ſelf, but hell following after it has ten thou<g ref="char:EOLhyphen"/>ſand times a more terrible ſecond. Death is ſent unto the ungodly in wrath as an Excecutioner, they dye as malefa<g ref="char:EOLhyphen"/>ctors. The righteous indeed are cut down as Corn that is fully ripe, that it may be gathered into the barn, <hi>Mat:</hi> 13. 30: But Death hews down the wicked, as a man fells fuel for the fire, they are evil trees that cumber the earth, <hi>Luk.</hi> 13. 7. <hi>Cut it down, why cumbereth it the ground?</hi> And immediately they become eternal feul for thoſe flames that never can be quenched.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> 1. Of Reproof to thoſe <hi>who can't endure to think of Death;</hi> or if they do, <hi>make an ill uſe of it.</hi> Many quite baniſh the thoughts of dying, they are reſolved to live wickedly, and don't care to conſider, that ſuch a life will end, nor to conſider <hi>how</hi> 'twill end. The Rich Man had Death quite out of his thoughts; and reckon'd upon living <hi>many years,</hi> in which he ſhould take <hi>his eaſe, eat, drink, and be merry:</hi> When Death was entring in at his door, and his <hi>Soul</hi> juſt ready to be <hi>required,</hi> God calls this man <hi>a fool;</hi> and after he was out of the World, he ſaw reaſon to call <hi>himſelf by that Name</hi> for ever. Others alſo are ſharply to be reproved, who, becauſe they muſt
+<pb n="29" facs="tcp:35181:17"/> dye, are reſolved to indulge the Fleſh while they may. What profane frantick Epicures were they, who ſaid, <hi>Let us eat and drink to day, for we ſhall die to morrow?</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 2. Of Exhortation to the <hi>imitation of Holy</hi> Job <hi>in tbe Text.</hi> Let me perſwade you all, All the days of your appointed time to be waiting for your Change. Have many a ſolicitous thought, whither it is that Death will ſend you? Ask your Souls, whither they are likely to go, when they diſlodge and leave this Earthly Taber<g ref="char:EOLhyphen"/>nacle? Dye you muſt; 'tis dreadful to dye in ſin, and few dye otherwiſe. Prepare, I beſeech you, for that which you cannot avoid. 'Tis in vain, when death is within view, to plead thus: <hi>O Death,</hi> I <hi>never thought of thy approach; none of my main work alas is done, I am utterly unfit to go to the Judgment-Seat; If I dye now, I dye mi<g ref="char:EOLhyphen"/>ſerable, and ſhall be miſerable for ever.</hi> Death comes at Gods command, and whether you are prepared or un<g ref="char:EOLhyphen"/>prepared, when God ſays, <hi>Strike,</hi> it cannot hold its hand. Think of this, and let Death find you ready, come when it will.</p>
+            <p>Two things you are here to be adviſed to:</p>
+            <p n="1">1. Let there be <hi>a looking to Jeſus to take out the Sting of Death.</hi> Believe in him, that he may give you Victory over this laſt Enemy. Chriſt can <hi>deliver you from the Curſe of the Law:</hi> now the Law, the Apoſtle tells you, is <hi>the ſtrength of Sin,</hi> as <hi>Sin is the Sting of Death.</hi> Apply and relie upon the Blood of Jeſus, to be Juſtified, and to be Saved from Wrath. The Apoſtle deſired to be <hi>ſound in Chriſt;</hi> and if Death find you in him, it may kill you, but it can't hurt you; nay, if you are in Chriſt, and live to him, Death will be <hi>gain,</hi> and greater gain, than while you live you can conceive.</p>
+            <p n="2">2. Look unto Jeſus to <hi>be freed from that bondage which is cauſed by the fear of dying,</hi> Heb. 2. 14, 15. You can<g ref="char:EOLhyphen"/>not
+<pb n="30" facs="tcp:35181:18"/> be compleatly happy while you live, becauſe you will remain incompleatly Holy: Study the vanity of every thing that makes you fond of Living. Clear up your intereſt in Jeſus Chriſt, and preſerve Conſcience clear and peaceable. And let your Eye be after your Riſen and Aſcended Lord; <hi>who was dead, and is alive, and lives for evermore:</hi> that ſo you may long to go to him, to <hi>be with him</hi> in <hi>thoſe manſions he is gone to prepare.</hi> O beg for Conqueſt over your Fears, and that you may <hi>ſee heaven plainly</hi> by the Eye of Faith; and <hi>heaven open,</hi> and Chriſt ready to receive your Spirits, aſſoon as you have put off your ſleſhly Tabernacle. Life is then lead in peace, when Death ceaſes to be dreaded, and becomes deſirable.</p>
+         </div>
+         <div type="epitaph">
+            <head>
+               <hi>An</hi> Epitaph <hi>upon</hi> Mrs. Martha Thompſon.</head>
+            <l>Her Name was <hi>Martha,</hi> but ſhe had the <hi>Heart</hi>
+            </l>
+            <l>Of <hi>Mary;</hi> for She choſe the <hi>Better part.</hi>
+            </l>
+            <l>In patience, meekneſs, humbleneſs of Mind,</l>
+            <l>She did Excel the moſt of Womankind.</l>
+            <l>She <hi>waited for her Change;</hi> which being Come,</l>
+            <l>She's at her <hi>Blisful</hi> and <hi>Eternal Home.</hi>
+            </l>
+            <l>Her Friends lament they've loſt her; whereas She</l>
+            <l>Has bid Farewel, <hi>World, Sin,</hi> and <hi>Miſery.</hi>
+            </l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books Publiſhed by Mr. <hi>Nathanael Vincent,</hi> Sold by <hi>T. Parkhurſt.</hi>
+            </head>
+            <list>
+               <item>1. The <hi>Spirit of Prayer,</hi> with directions to attain the Gift.</item>
+               <item>2. <hi>Worthy walking,</hi> the <hi>Call of the Goſpel.</hi>
+               </item>
+               <item>3. <hi>Heaven or Hell upon Earth,</hi> in a Diſcourſe concerning Conſcience.</item>
+               <item>4. The <hi>little Childs Catechiſm,</hi> with ſeveral ſhort Hiſtories.</item>
+               <item>5. Mr. <hi>Janeway</hi>'s Funeral Sermon.</item>
+               <item>6. Mrs. <hi>Bakers</hi> Funeral Sermon.</item>
+               <item>7. The <hi>True Touch-ſtone,</hi> which ſhews both Grace and Nature.</item>
+            </list>
+            <pb facs="tcp:35181:18"/>
+         </div>
+      </back>
+   </text>
+</TEI>
